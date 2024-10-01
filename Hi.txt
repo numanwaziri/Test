@@ -1,1 +1,2 @@
-First line of text
+First of text
+add second all
